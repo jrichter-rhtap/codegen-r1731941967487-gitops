@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: codegen-r1731941967487-repository
+spec:
+  url: https://github.com/jrichter-rhtap/codegen-r1731941967487
